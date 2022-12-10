@@ -18,7 +18,7 @@
     "core-js": "^2.6.5",
     "cors": "^2.8.5",
     "css-vars-ponyfill": "^2.0.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-rate-limit": "^3.5.1",
     "jikan-node": "^1.1.2",
     "maintenance": "0.0.2",
